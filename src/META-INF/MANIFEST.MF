@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.synechrone.message.SocketServer
+Class-Path: json-20160212.jar
+
